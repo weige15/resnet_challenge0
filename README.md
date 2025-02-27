@@ -18,6 +18,7 @@ This repository contains an implementation of ResNet from scratch using PyTorch.
 git clone https://github.com/weige15/resnet_challenge0.git
 cd resnet_challenge0
 
+```
 ### 2️⃣ Install Dependencies
 
 pip install tqdm
