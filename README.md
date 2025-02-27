@@ -20,8 +20,8 @@ cd resnet_challenge0
 
 ```
 ### 2️⃣ Install Dependencies
-
-pip install tqdm
-
+```bash
+pip install tqdm pillow ipython
+```
 For Torch and Torchvision, visit the official website to choose a version that best suits your hardware requirements.
 ![image](https://github.com/user-attachments/assets/dfa3afdd-a087-4390-ac41-12d419c72152)
