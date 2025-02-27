@@ -1,0 +1,6 @@
+# Ignore datasets
+data/
+*.tar.gz
+
+# Ignore model weights
+*.pth
